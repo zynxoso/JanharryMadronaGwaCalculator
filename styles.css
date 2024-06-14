@@ -1,9 +1,8 @@
 body {
-    margin: 10%;
     background-color: #f8f9fa;
 }
 .container {
-    margin: 20px;
+    margin-top: 20px;
 }
 .result {
     margin-top: 20px;
